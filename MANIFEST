@@ -16,4 +16,5 @@ t/02_http.t
 t/03_httprq.t
 t/04_addxfoo.t
 t/05_logformdata.t
-META.yml                                 Module meta-data (added by MakeMaker)
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
