@@ -1,4 +1,4 @@
-0.522 2014/12/09
+0.523 2014/12/09
 - move SaveResponse and LogFormData to Example
 - fix smartmatch warnings
 - fix MANIFEST

@@ -22,4 +22,4 @@ requires:
   Net::Inspect: 0.27
 resources:
   repository: https://github.com/noxxi/p5-net-imp-http
-version: 0.522
+version: 0.523

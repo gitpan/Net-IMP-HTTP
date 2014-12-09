@@ -1,10 +1,9 @@
-openbsd  - Build and install OpenBSD release and packages.
-ports    - Build and install specific ports that do not exist in OpenBSD ports.
-os       - Build gg kernel and modified system tools.
-gg       - genugate ALG files
-pfl      - genugate PFL
-etc      - gg initial config and boot scripts
-doc      - man pages, online help, manual
-package  - Create .tgz packages for gg
-cdimage  - Create iso9660 cdrom image for gg
-patch    - Create gg patch
+Net::IMP::HTTP
+Base classes and classes for HTTP specific Net::IMP plugins
+
+This module is copyright by Steffen Ullrich.
+
+The module was developed while working on project Padiofire
+(http://padiofire.org) at genua mbh (http://www.genua.de).
+The padiofire project was partly funded by BMBF (German Federal Ministry
+of Education an Research).
